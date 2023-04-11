@@ -1,0 +1,691 @@
+﻿Year,Month,Month_name,Day_type,Mode,Pax_daily
+2018,1,Jan,Normal Weekday,MetroBus,356150
+2018,1,Jan,Normal Weekday,MetroTrain,694800
+2018,1,Jan,Normal Weekday,Tram,585500
+2018,1,Jan,Normal Weekday,RegionalBus,26950
+2018,1,Jan,Normal Weekday,RegionalTrain,49600
+2018,2,Feb,Normal Weekday,MetroBus,463500
+2018,2,Feb,Normal Weekday,MetroTrain,788600
+2018,2,Feb,Normal Weekday,Tram,680050
+2018,2,Feb,Normal Weekday,RegionalBus,40600
+2018,2,Feb,Normal Weekday,RegionalTrain,55150
+2018,3,Mar,Normal Weekday,MetroBus,490250
+2018,3,Mar,Normal Weekday,MetroTrain,870100
+2018,3,Mar,Normal Weekday,Tram,759400
+2018,3,Mar,Normal Weekday,RegionalBus,42650
+2018,3,Mar,Normal Weekday,RegionalTrain,61100
+2018,4,Apr,Normal Weekday,MetroBus,468000
+2018,4,Apr,Normal Weekday,MetroTrain,842400
+2018,4,Apr,Normal Weekday,Tram,688350
+2018,4,Apr,Normal Weekday,RegionalBus,41250
+2018,4,Apr,Normal Weekday,RegionalTrain,59400
+2018,5,May,Normal Weekday,MetroBus,431600
+2018,5,May,Normal Weekday,MetroTrain,816050
+2018,5,May,Normal Weekday,Tram,634200
+2018,5,May,Normal Weekday,RegionalBus,39250
+2018,5,May,Normal Weekday,RegionalTrain,57850
+2018,6,Jun,Normal Weekday,MetroBus,400500
+2018,6,Jun,Normal Weekday,MetroTrain,760950
+2018,6,Jun,Normal Weekday,Tram,616600
+2018,6,Jun,Normal Weekday,RegionalBus,37850
+2018,6,Jun,Normal Weekday,RegionalTrain,55850
+2018,7,Jul,Normal Weekday,MetroBus,421750
+2018,7,Jul,Normal Weekday,MetroTrain,797200
+2018,7,Jul,Normal Weekday,Tram,648350
+2018,7,Jul,Normal Weekday,RegionalBus,38050
+2018,7,Jul,Normal Weekday,RegionalTrain,57950
+2018,8,Aug,Normal Weekday,MetroBus,455950
+2018,8,Aug,Normal Weekday,MetroTrain,806750
+2018,8,Aug,Normal Weekday,Tram,666000
+2018,8,Aug,Normal Weekday,RegionalBus,40550
+2018,8,Aug,Normal Weekday,RegionalTrain,57000
+2018,9,Sep,Normal Weekday,MetroBus,450850
+2018,9,Sep,Normal Weekday,MetroTrain,820400
+2018,9,Sep,Normal Weekday,Tram,617950
+2018,9,Sep,Normal Weekday,RegionalBus,41100
+2018,9,Sep,Normal Weekday,RegionalTrain,57250
+2018,10,Oct,Normal Weekday,MetroBus,445200
+2018,10,Oct,Normal Weekday,MetroTrain,808850
+2018,10,Oct,Normal Weekday,Tram,672800
+2018,10,Oct,Normal Weekday,RegionalBus,41450
+2018,10,Oct,Normal Weekday,RegionalTrain,57450
+2018,11,Nov,Normal Weekday,MetroBus,423200
+2018,11,Nov,Normal Weekday,MetroTrain,794150
+2018,11,Nov,Normal Weekday,Tram,678150
+2018,11,Nov,Normal Weekday,RegionalBus,39950
+2018,11,Nov,Normal Weekday,RegionalTrain,56550
+2018,12,Dec,Normal Weekday,MetroBus,364850
+2018,12,Dec,Normal Weekday,MetroTrain,721400
+2018,12,Dec,Normal Weekday,Tram,672900
+2018,12,Dec,Normal Weekday,RegionalBus,34200
+2018,12,Dec,Normal Weekday,RegionalTrain,50700
+2019,1,Jan,Normal Weekday,MetroBus,391750
+2019,1,Jan,Normal Weekday,MetroTrain,741350
+2019,1,Jan,Normal Weekday,Tram,623650
+2019,1,Jan,Normal Weekday,RegionalBus,33200
+2019,1,Jan,Normal Weekday,RegionalTrain,50450
+2019,2,Feb,Normal Weekday,MetroBus,442950
+2019,2,Feb,Normal Weekday,MetroTrain,814400
+2019,2,Feb,Normal Weekday,Tram,647100
+2019,2,Feb,Normal Weekday,RegionalBus,43600
+2019,2,Feb,Normal Weekday,RegionalTrain,59000
+2019,3,Mar,Normal Weekday,MetroBus,490900
+2019,3,Mar,Normal Weekday,MetroTrain,888750
+2019,3,Mar,Normal Weekday,Tram,707100
+2019,3,Mar,Normal Weekday,RegionalBus,44850
+2019,3,Mar,Normal Weekday,RegionalTrain,63350
+2019,4,Apr,Normal Weekday,MetroBus,446200
+2019,4,Apr,Normal Weekday,MetroTrain,792950
+2019,4,Apr,Normal Weekday,Tram,654250
+2019,4,Apr,Normal Weekday,RegionalBus,41900
+2019,4,Apr,Normal Weekday,RegionalTrain,55550
+2019,5,May,Normal Weekday,MetroBus,466950
+2019,5,May,Normal Weekday,MetroTrain,828850
+2019,5,May,Normal Weekday,Tram,658900
+2019,5,May,Normal Weekday,RegionalBus,41250
+2019,5,May,Normal Weekday,RegionalTrain,61350
+2019,6,Jun,Normal Weekday,MetroBus,414850
+2019,6,Jun,Normal Weekday,MetroTrain,776500
+2019,6,Jun,Normal Weekday,Tram,609800
+2019,6,Jun,Normal Weekday,RegionalBus,38650
+2019,6,Jun,Normal Weekday,RegionalTrain,57150
+2019,7,Jul,Normal Weekday,MetroBus,448450
+2019,7,Jul,Normal Weekday,MetroTrain,787150
+2019,7,Jul,Normal Weekday,Tram,625150
+2019,7,Jul,Normal Weekday,RegionalBus,42900
+2019,7,Jul,Normal Weekday,RegionalTrain,59400
+2019,8,Aug,Normal Weekday,MetroBus,453200
+2019,8,Aug,Normal Weekday,MetroTrain,830000
+2019,8,Aug,Normal Weekday,Tram,658050
+2019,8,Aug,Normal Weekday,RegionalBus,43100
+2019,8,Aug,Normal Weekday,RegionalTrain,60950
+2019,9,Sep,Normal Weekday,MetroBus,449550
+2019,9,Sep,Normal Weekday,MetroTrain,834700
+2019,9,Sep,Normal Weekday,Tram,648700
+2019,9,Sep,Normal Weekday,RegionalBus,44450
+2019,9,Sep,Normal Weekday,RegionalTrain,61600
+2019,10,Oct,Normal Weekday,MetroBus,443200
+2019,10,Oct,Normal Weekday,MetroTrain,825250
+2019,10,Oct,Normal Weekday,Tram,612550
+2019,10,Oct,Normal Weekday,RegionalBus,39650
+2019,10,Oct,Normal Weekday,RegionalTrain,61050
+2019,11,Nov,Normal Weekday,MetroBus,433150
+2019,11,Nov,Normal Weekday,MetroTrain,809700
+2019,11,Nov,Normal Weekday,Tram,589500
+2019,11,Nov,Normal Weekday,RegionalBus,37850
+2019,11,Nov,Normal Weekday,RegionalTrain,55650
+2019,12,Dec,Normal Weekday,MetroBus,401900
+2019,12,Dec,Normal Weekday,MetroTrain,775000
+2019,12,Dec,Normal Weekday,Tram,567200
+2019,12,Dec,Normal Weekday,RegionalBus,32650
+2019,12,Dec,Normal Weekday,RegionalTrain,56950
+2020,1,Jan,Normal Weekday,MetroBus,375250
+2020,1,Jan,Normal Weekday,MetroTrain,721650
+2020,1,Jan,Normal Weekday,Tram,466450
+2020,1,Jan,Normal Weekday,RegionalBus,33200
+2020,1,Jan,Normal Weekday,RegionalTrain,50050
+2020,2,Feb,Normal Weekday,MetroBus,442150
+2020,2,Feb,Normal Weekday,MetroTrain,807600
+2020,2,Feb,Normal Weekday,Tram,569050
+2020,2,Feb,Normal Weekday,RegionalBus,45750
+2020,2,Feb,Normal Weekday,RegionalTrain,61600
+2020,3,Mar,Normal Weekday,MetroBus,392150
+2020,3,Mar,Normal Weekday,MetroTrain,684450
+2020,3,Mar,Normal Weekday,Tram,469200
+2020,3,Mar,Normal Weekday,RegionalBus,41950
+2020,3,Mar,Normal Weekday,RegionalTrain,51400
+2020,4,Apr,Normal Weekday,MetroBus,61550
+2020,4,Apr,Normal Weekday,MetroTrain,87600
+2020,4,Apr,Normal Weekday,Tram,57300
+2020,4,Apr,Normal Weekday,RegionalBus,7450
+2020,4,Apr,Normal Weekday,RegionalTrain,6800
+2020,5,May,Normal Weekday,MetroBus,95400
+2020,5,May,Normal Weekday,MetroTrain,131250
+2020,5,May,Normal Weekday,Tram,95250
+2020,5,May,Normal Weekday,RegionalBus,11100
+2020,5,May,Normal Weekday,RegionalTrain,10900
+2020,6,Jun,Normal Weekday,MetroBus,192450
+2020,6,Jun,Normal Weekday,MetroTrain,236700
+2020,6,Jun,Normal Weekday,Tram,153550
+2020,6,Jun,Normal Weekday,RegionalBus,25250
+2020,6,Jun,Normal Weekday,RegionalTrain,17550
+2020,7,Jul,Normal Weekday,MetroBus,111900
+2020,7,Jul,Normal Weekday,MetroTrain,127550
+2020,7,Jul,Normal Weekday,Tram,77100
+2020,7,Jul,Normal Weekday,RegionalBus,27200
+2020,7,Jul,Normal Weekday,RegionalTrain,11300
+2020,8,Aug,Normal Weekday,MetroBus,69450
+2020,8,Aug,Normal Weekday,MetroTrain,68600
+2020,8,Aug,Normal Weekday,Tram,45600
+2020,8,Aug,Normal Weekday,RegionalBus,10700
+2020,8,Aug,Normal Weekday,RegionalTrain,6050
+2020,9,Sep,Normal Weekday,MetroBus,78750
+2020,9,Sep,Normal Weekday,MetroTrain,68050
+2020,9,Sep,Normal Weekday,Tram,43400
+2020,9,Sep,Normal Weekday,RegionalBus,11800
+2020,9,Sep,Normal Weekday,RegionalTrain,6450
+2020,10,Oct,Normal Weekday,MetroBus,155200
+2020,10,Oct,Normal Weekday,MetroTrain,127850
+2020,10,Oct,Normal Weekday,Tram,71150
+2020,10,Oct,Normal Weekday,RegionalBus,29950
+2020,10,Oct,Normal Weekday,RegionalTrain,10700
+2020,11,Nov,Normal Weekday,MetroBus,237700
+2020,11,Nov,Normal Weekday,MetroTrain,228650
+2020,11,Nov,Normal Weekday,Tram,159900
+2020,11,Nov,Normal Weekday,RegionalBus,30750
+2020,11,Nov,Normal Weekday,RegionalTrain,17700
+2020,12,Dec,Normal Weekday,MetroBus,251500
+2020,12,Dec,Normal Weekday,MetroTrain,289400
+2020,12,Dec,Normal Weekday,Tram,235000
+2020,12,Dec,Normal Weekday,RegionalBus,24550
+2020,12,Dec,Normal Weekday,RegionalTrain,24950
+2021,1,Jan,Normal Weekday,MetroBus,217050
+2021,1,Jan,Normal Weekday,MetroTrain,308500
+2021,1,Jan,Normal Weekday,Tram,250200
+2021,1,Jan,Normal Weekday,RegionalBus,19400
+2021,1,Jan,Normal Weekday,RegionalTrain,21050
+2021,2,Feb,Normal Weekday,MetroBus,242850
+2021,2,Feb,Normal Weekday,MetroTrain,310700
+2021,2,Feb,Normal Weekday,Tram,235950
+2021,2,Feb,Normal Weekday,RegionalBus,27750
+2021,2,Feb,Normal Weekday,RegionalTrain,25350
+2021,3,Mar,Normal Weekday,MetroBus,300700
+2021,3,Mar,Normal Weekday,MetroTrain,427450
+2021,3,Mar,Normal Weekday,Tram,315350
+2021,3,Mar,Normal Weekday,RegionalBus,31150
+2021,3,Mar,Normal Weekday,RegionalTrain,35200
+2021,4,Apr,Normal Weekday,MetroBus,303600
+2021,4,Apr,Normal Weekday,MetroTrain,463000
+2021,4,Apr,Normal Weekday,Tram,355150
+2021,4,Apr,Normal Weekday,RegionalBus,31000
+2021,4,Apr,Normal Weekday,RegionalTrain,37700
+2021,5,May,Normal Weekday,MetroBus,279850
+2021,5,May,Normal Weekday,MetroTrain,416050
+2021,5,May,Normal Weekday,Tram,316100
+2021,5,May,Normal Weekday,RegionalBus,27850
+2021,5,May,Normal Weekday,RegionalTrain,33350
+2021,6,Jun,Normal Weekday,MetroBus,168950
+2021,6,Jun,Normal Weekday,MetroTrain,213400
+2021,6,Jun,Normal Weekday,Tram,148450
+2021,6,Jun,Normal Weekday,RegionalBus,24550
+2021,6,Jun,Normal Weekday,RegionalTrain,20100
+2021,7,Jul,Normal Weekday,MetroBus,166000
+2021,7,Jul,Normal Weekday,MetroTrain,221700
+2021,7,Jul,Normal Weekday,Tram,150100
+2021,7,Jul,Normal Weekday,RegionalBus,19950
+2021,7,Jul,Normal Weekday,RegionalTrain,17350
+2021,8,Aug,Normal Weekday,MetroBus,122700
+2021,8,Aug,Normal Weekday,MetroTrain,147200
+2021,8,Aug,Normal Weekday,Tram,99000
+2021,8,Aug,Normal Weekday,RegionalBus,23300
+2021,8,Aug,Normal Weekday,RegionalTrain,14200
+2021,9,Sep,Normal Weekday,MetroBus,95150
+2021,9,Sep,Normal Weekday,MetroTrain,104850
+2021,9,Sep,Normal Weekday,Tram,72450
+2021,9,Sep,Normal Weekday,RegionalBus,15350
+2021,9,Sep,Normal Weekday,RegionalTrain,6850
+2021,10,Oct,Normal Weekday,MetroBus,131250
+2021,10,Oct,Normal Weekday,MetroTrain,137950
+2021,10,Oct,Normal Weekday,Tram,109000
+2021,10,Oct,Normal Weekday,RegionalBus,22850
+2021,10,Oct,Normal Weekday,RegionalTrain,11750
+2021,11,Nov,Normal Weekday,MetroBus,255250
+2021,11,Nov,Normal Weekday,MetroTrain,298150
+2021,11,Nov,Normal Weekday,Tram,261300
+2021,11,Nov,Normal Weekday,RegionalBus,27850
+2021,11,Nov,Normal Weekday,RegionalTrain,23500
+2021,12,Dec,Normal Weekday,MetroBus,259250
+2021,12,Dec,Normal Weekday,MetroTrain,364850
+2021,12,Dec,Normal Weekday,Tram,344550
+2021,12,Dec,Normal Weekday,RegionalBus,25900
+2021,12,Dec,Normal Weekday,RegionalTrain,31000
+2022,1,Jan,Normal Weekday,MetroBus,200950
+2022,1,Jan,Normal Weekday,MetroTrain,230200
+2022,1,Jan,Normal Weekday,Tram,224100
+2022,1,Jan,Normal Weekday,RegionalBus,22600
+2022,1,Jan,Normal Weekday,RegionalTrain,22950
+2022,2,Feb,Normal Weekday,MetroBus,260900
+2022,2,Feb,Normal Weekday,MetroTrain,320100
+2022,2,Feb,Normal Weekday,Tram,308450
+2022,2,Feb,Normal Weekday,RegionalBus,36200
+2022,2,Feb,Normal Weekday,RegionalTrain,27000
+2022,3,Mar,Normal Weekday,MetroBus,329900
+2022,3,Mar,Normal Weekday,MetroTrain,454850
+2022,3,Mar,Normal Weekday,Tram,412150
+2022,3,Mar,Normal Weekday,RegionalBus,36000
+2022,3,Mar,Normal Weekday,RegionalTrain,38850
+2022,4,Apr,Normal Weekday,MetroBus,327500
+2022,4,Apr,Normal Weekday,MetroTrain,467200
+2022,4,Apr,Normal Weekday,Tram,392150
+2022,4,Apr,Normal Weekday,RegionalBus,38050
+2022,4,Apr,Normal Weekday,RegionalTrain,36900
+2022,5,May,Normal Weekday,MetroBus,300050
+2022,5,May,Normal Weekday,MetroTrain,444050
+2022,5,May,Normal Weekday,Tram,350650
+2022,5,May,Normal Weekday,RegionalBus,38300
+2022,5,May,Normal Weekday,RegionalTrain,36050
+2022,6,Jun,Normal Weekday,MetroBus,280600
+2022,6,Jun,Normal Weekday,MetroTrain,433450
+2022,6,Jun,Normal Weekday,Tram,342600
+2022,6,Jun,Normal Weekday,RegionalBus,33900
+2022,6,Jun,Normal Weekday,RegionalTrain,37550
+2018,1,Jan,School Holiday Weekday,MetroBus,293050
+2018,1,Jan,School Holiday Weekday,MetroTrain,615750
+2018,1,Jan,School Holiday Weekday,Tram,557900
+2018,1,Jan,School Holiday Weekday,RegionalBus,23450
+2018,1,Jan,School Holiday Weekday,RegionalTrain,47600
+2018,4,Apr,School Holiday Weekday,MetroBus,368000
+2018,4,Apr,School Holiday Weekday,MetroTrain,769700
+2018,4,Apr,School Holiday Weekday,Tram,638800
+2018,4,Apr,School Holiday Weekday,RegionalBus,27250
+2018,4,Apr,School Holiday Weekday,RegionalTrain,55800
+2018,7,Jul,School Holiday Weekday,MetroBus,322100
+2018,7,Jul,School Holiday Weekday,MetroTrain,713350
+2018,7,Jul,School Holiday Weekday,Tram,609300
+2018,7,Jul,School Holiday Weekday,RegionalBus,24150
+2018,7,Jul,School Holiday Weekday,RegionalTrain,53550
+2018,9,Sep,School Holiday Weekday,MetroBus,356750
+2018,9,Sep,School Holiday Weekday,MetroTrain,785750
+2018,9,Sep,School Holiday Weekday,Tram,628050
+2018,9,Sep,School Holiday Weekday,RegionalBus,27500
+2018,9,Sep,School Holiday Weekday,RegionalTrain,58000
+2018,10,Oct,School Holiday Weekday,MetroBus,378400
+2018,10,Oct,School Holiday Weekday,MetroTrain,790450
+2018,10,Oct,School Holiday Weekday,Tram,681600
+2018,10,Oct,School Holiday Weekday,RegionalBus,27750
+2018,10,Oct,School Holiday Weekday,RegionalTrain,57950
+2018,12,Dec,School Holiday Weekday,MetroBus,190000
+2018,12,Dec,School Holiday Weekday,MetroTrain,359700
+2018,12,Dec,School Holiday Weekday,Tram,377200
+2018,12,Dec,School Holiday Weekday,RegionalBus,20050
+2018,12,Dec,School Holiday Weekday,RegionalTrain,29100
+2019,1,Jan,School Holiday Weekday,MetroBus,300050
+2019,1,Jan,School Holiday Weekday,MetroTrain,627450
+2019,1,Jan,School Holiday Weekday,Tram,586400
+2019,1,Jan,School Holiday Weekday,RegionalBus,24600
+2019,1,Jan,School Holiday Weekday,RegionalTrain,46900
+2019,4,Apr,School Holiday Weekday,MetroBus,392600
+2019,4,Apr,School Holiday Weekday,MetroTrain,750700
+2019,4,Apr,School Holiday Weekday,Tram,693300
+2019,4,Apr,School Holiday Weekday,RegionalBus,29000
+2019,4,Apr,School Holiday Weekday,RegionalTrain,51700
+2019,7,Jul,School Holiday Weekday,MetroBus,338000
+2019,7,Jul,School Holiday Weekday,MetroTrain,697550
+2019,7,Jul,School Holiday Weekday,Tram,601100
+2019,7,Jul,School Holiday Weekday,RegionalBus,27250
+2019,7,Jul,School Holiday Weekday,RegionalTrain,52150
+2019,9,Sep,School Holiday Weekday,MetroBus,378500
+2019,9,Sep,School Holiday Weekday,MetroTrain,784750
+2019,9,Sep,School Holiday Weekday,Tram,592300
+2019,9,Sep,School Holiday Weekday,RegionalBus,29300
+2019,9,Sep,School Holiday Weekday,RegionalTrain,53900
+2019,10,Oct,School Holiday Weekday,MetroBus,369000
+2019,10,Oct,School Holiday Weekday,MetroTrain,774350
+2019,10,Oct,School Holiday Weekday,Tram,619200
+2019,10,Oct,School Holiday Weekday,RegionalBus,27050
+2019,10,Oct,School Holiday Weekday,RegionalTrain,34900
+2019,12,Dec,School Holiday Weekday,MetroBus,221200
+2019,12,Dec,School Holiday Weekday,MetroTrain,398650
+2019,12,Dec,School Holiday Weekday,Tram,339650
+2019,12,Dec,School Holiday Weekday,RegionalBus,19900
+2019,12,Dec,School Holiday Weekday,RegionalTrain,34300
+2020,1,Jan,School Holiday Weekday,MetroBus,317650
+2020,1,Jan,School Holiday Weekday,MetroTrain,627500
+2020,1,Jan,School Holiday Weekday,Tram,499100
+2020,1,Jan,School Holiday Weekday,RegionalBus,24800
+2020,1,Jan,School Holiday Weekday,RegionalTrain,52200
+2020,3,Mar,School Holiday Weekday,MetroBus,84800
+2020,3,Mar,School Holiday Weekday,MetroTrain,126250
+2020,3,Mar,School Holiday Weekday,Tram,78250
+2020,3,Mar,School Holiday Weekday,RegionalBus,8400
+2020,3,Mar,School Holiday Weekday,RegionalTrain,10950
+2020,4,Apr,School Holiday Weekday,MetroBus,62350
+2020,4,Apr,School Holiday Weekday,MetroTrain,83700
+2020,4,Apr,School Holiday Weekday,Tram,54250
+2020,4,Apr,School Holiday Weekday,RegionalBus,6900
+2020,4,Apr,School Holiday Weekday,RegionalTrain,5200
+2020,6,Jun,School Holiday Weekday,MetroBus,150650
+2020,6,Jun,School Holiday Weekday,MetroTrain,196400
+2020,6,Jun,School Holiday Weekday,Tram,138700
+2020,6,Jun,School Holiday Weekday,RegionalBus,14150
+2020,6,Jun,School Holiday Weekday,RegionalTrain,15150
+2020,7,Jul,School Holiday Weekday,MetroBus,135350
+2020,7,Jul,School Holiday Weekday,MetroTrain,167400
+2020,7,Jul,School Holiday Weekday,Tram,119200
+2020,7,Jul,School Holiday Weekday,RegionalBus,14750
+2020,7,Jul,School Holiday Weekday,RegionalTrain,13700
+2020,9,Sep,School Holiday Weekday,MetroBus,83000
+2020,9,Sep,School Holiday Weekday,MetroTrain,75750
+2020,9,Sep,School Holiday Weekday,Tram,47300
+2020,9,Sep,School Holiday Weekday,RegionalBus,12900
+2020,9,Sep,School Holiday Weekday,RegionalTrain,7650
+2020,10,Oct,School Holiday Weekday,MetroBus,105050
+2020,10,Oct,School Holiday Weekday,MetroTrain,89100
+2020,10,Oct,School Holiday Weekday,Tram,54650
+2020,10,Oct,School Holiday Weekday,RegionalBus,18350
+2020,10,Oct,School Holiday Weekday,RegionalTrain,8800
+2020,12,Dec,School Holiday Weekday,MetroBus,181350
+2020,12,Dec,School Holiday Weekday,MetroTrain,228150
+2020,12,Dec,School Holiday Weekday,Tram,190050
+2020,12,Dec,School Holiday Weekday,RegionalBus,16600
+2020,12,Dec,School Holiday Weekday,RegionalTrain,20000
+2021,1,Jan,School Holiday Weekday,MetroBus,187750
+2021,1,Jan,School Holiday Weekday,MetroTrain,245650
+2021,1,Jan,School Holiday Weekday,Tram,201800
+2021,1,Jan,School Holiday Weekday,RegionalBus,16100
+2021,1,Jan,School Holiday Weekday,RegionalTrain,20800
+2021,4,Apr,School Holiday Weekday,MetroBus,247500
+2021,4,Apr,School Holiday Weekday,MetroTrain,407500
+2021,4,Apr,School Holiday Weekday,Tram,348600
+2021,4,Apr,School Holiday Weekday,RegionalBus,18700
+2021,4,Apr,School Holiday Weekday,RegionalTrain,37700
+2021,6,Jun,School Holiday Weekday,MetroBus,220400
+2021,6,Jun,School Holiday Weekday,MetroTrain,338100
+2021,6,Jun,School Holiday Weekday,Tram,227650
+2021,6,Jun,School Holiday Weekday,RegionalBus,18900
+2021,6,Jun,School Holiday Weekday,RegionalTrain,28350
+2021,7,Jul,School Holiday Weekday,MetroBus,220050
+2021,7,Jul,School Holiday Weekday,MetroTrain,360800
+2021,7,Jul,School Holiday Weekday,Tram,244600
+2021,7,Jul,School Holiday Weekday,RegionalBus,19900
+2021,7,Jul,School Holiday Weekday,RegionalTrain,31800
+2021,9,Sep,School Holiday Weekday,MetroBus,96300
+2021,9,Sep,School Holiday Weekday,MetroTrain,103500
+2021,9,Sep,School Holiday Weekday,Tram,72750
+2021,9,Sep,School Holiday Weekday,RegionalBus,14850
+2021,9,Sep,School Holiday Weekday,RegionalTrain,6400
+2021,10,Oct,School Holiday Weekday,MetroBus,100550
+2021,10,Oct,School Holiday Weekday,MetroTrain,105000
+2021,10,Oct,School Holiday Weekday,Tram,77100
+2021,10,Oct,School Holiday Weekday,RegionalBus,15250
+2021,10,Oct,School Holiday Weekday,RegionalTrain,9050
+2021,12,Dec,School Holiday Weekday,MetroBus,181300
+2021,12,Dec,School Holiday Weekday,MetroTrain,248000
+2021,12,Dec,School Holiday Weekday,Tram,247050
+2021,12,Dec,School Holiday Weekday,RegionalBus,19100
+2021,12,Dec,School Holiday Weekday,RegionalTrain,25600
+2022,1,Jan,School Holiday Weekday,MetroBus,159050
+2022,1,Jan,School Holiday Weekday,MetroTrain,242700
+2022,1,Jan,School Holiday Weekday,Tram,195800
+2022,1,Jan,School Holiday Weekday,RegionalBus,19200
+2022,1,Jan,School Holiday Weekday,RegionalTrain,25450
+2022,4,Apr,School Holiday Weekday,MetroBus,263100
+2022,4,Apr,School Holiday Weekday,MetroTrain,405550
+2022,4,Apr,School Holiday Weekday,Tram,358750
+2022,4,Apr,School Holiday Weekday,RegionalBus,26650
+2022,4,Apr,School Holiday Weekday,RegionalTrain,37750
+2022,6,Jun,School Holiday Weekday,MetroBus,251750
+2022,6,Jun,School Holiday Weekday,MetroTrain,414200
+2022,6,Jun,School Holiday Weekday,Tram,357100
+2022,6,Jun,School Holiday Weekday,RegionalBus,26200
+2022,6,Jun,School Holiday Weekday,RegionalTrain,37200
+2018,1,Jan,Weekend,MetroBus,129600
+2018,1,Jan,Weekend,MetroTrain,291650
+2018,1,Jan,Weekend,Tram,359500
+2018,1,Jan,Weekend,RegionalBus,10850
+2018,1,Jan,Weekend,RegionalTrain,19450
+2018,2,Feb,Weekend,MetroBus,152150
+2018,2,Feb,Weekend,MetroTrain,356450
+2018,2,Feb,Weekend,Tram,422550
+2018,2,Feb,Weekend,RegionalBus,12800
+2018,2,Feb,Weekend,RegionalTrain,22550
+2018,3,Mar,Weekend,MetroBus,162500
+2018,3,Mar,Weekend,MetroTrain,387050
+2018,3,Mar,Weekend,Tram,435450
+2018,3,Mar,Weekend,RegionalBus,12650
+2018,3,Mar,Weekend,RegionalTrain,27050
+2018,4,Apr,Weekend,MetroBus,154600
+2018,4,Apr,Weekend,MetroTrain,375750
+2018,4,Apr,Weekend,Tram,409000
+2018,4,Apr,Weekend,RegionalBus,11250
+2018,4,Apr,Weekend,RegionalTrain,25100
+2018,5,May,Weekend,MetroBus,167050
+2018,5,May,Weekend,MetroTrain,364350
+2018,5,May,Weekend,Tram,388100
+2018,5,May,Weekend,RegionalBus,11500
+2018,5,May,Weekend,RegionalTrain,25800
+2018,6,Jun,Weekend,MetroBus,154300
+2018,6,Jun,Weekend,MetroTrain,313050
+2018,6,Jun,Weekend,Tram,356900
+2018,6,Jun,Weekend,RegionalBus,10900
+2018,6,Jun,Weekend,RegionalTrain,22850
+2018,7,Jul,Weekend,MetroBus,152800
+2018,7,Jul,Weekend,MetroTrain,338350
+2018,7,Jul,Weekend,Tram,366200
+2018,7,Jul,Weekend,RegionalBus,10300
+2018,7,Jul,Weekend,RegionalTrain,26150
+2018,8,Aug,Weekend,MetroBus,158800
+2018,8,Aug,Weekend,MetroTrain,367100
+2018,8,Aug,Weekend,Tram,387150
+2018,8,Aug,Weekend,RegionalBus,10700
+2018,8,Aug,Weekend,RegionalTrain,25700
+2018,9,Sep,Weekend,MetroBus,154950
+2018,9,Sep,Weekend,MetroTrain,324800
+2018,9,Sep,Weekend,Tram,374300
+2018,9,Sep,Weekend,RegionalBus,11050
+2018,9,Sep,Weekend,RegionalTrain,21900
+2018,10,Oct,Weekend,MetroBus,166100
+2018,10,Oct,Weekend,MetroTrain,340750
+2018,10,Oct,Weekend,Tram,394850
+2018,10,Oct,Weekend,RegionalBus,15950
+2018,10,Oct,Weekend,RegionalTrain,23050
+2018,11,Nov,Weekend,MetroBus,170500
+2018,11,Nov,Weekend,MetroTrain,354700
+2018,11,Nov,Weekend,Tram,364550
+2018,11,Nov,Weekend,RegionalBus,12350
+2018,11,Nov,Weekend,RegionalTrain,25550
+2018,12,Dec,Weekend,MetroBus,153700
+2018,12,Dec,Weekend,MetroTrain,311900
+2018,12,Dec,Weekend,Tram,345350
+2018,12,Dec,Weekend,RegionalBus,11850
+2018,12,Dec,Weekend,RegionalTrain,20350
+2019,1,Jan,Weekend,MetroBus,145950
+2019,1,Jan,Weekend,MetroTrain,298400
+2019,1,Jan,Weekend,Tram,355050
+2019,1,Jan,Weekend,RegionalBus,10050
+2019,1,Jan,Weekend,RegionalTrain,19900
+2019,2,Feb,Weekend,MetroBus,155850
+2019,2,Feb,Weekend,MetroTrain,346400
+2019,2,Feb,Weekend,Tram,442900
+2019,2,Feb,Weekend,RegionalBus,12750
+2019,2,Feb,Weekend,RegionalTrain,25850
+2019,3,Mar,Weekend,MetroBus,177250
+2019,3,Mar,Weekend,MetroTrain,305050
+2019,3,Mar,Weekend,Tram,481900
+2019,3,Mar,Weekend,RegionalBus,13550
+2019,3,Mar,Weekend,RegionalTrain,26900
+2019,4,Apr,Weekend,MetroBus,171200
+2019,4,Apr,Weekend,MetroTrain,296500
+2019,4,Apr,Weekend,Tram,462900
+2019,4,Apr,Weekend,RegionalBus,12150
+2019,4,Apr,Weekend,RegionalTrain,26400
+2019,5,May,Weekend,MetroBus,167850
+2019,5,May,Weekend,MetroTrain,360550
+2019,5,May,Weekend,Tram,407050
+2019,5,May,Weekend,RegionalBus,11500
+2019,5,May,Weekend,RegionalTrain,30100
+2019,6,Jun,Weekend,MetroBus,150700
+2019,6,Jun,Weekend,MetroTrain,313200
+2019,6,Jun,Weekend,Tram,319950
+2019,6,Jun,Weekend,RegionalBus,11450
+2019,6,Jun,Weekend,RegionalTrain,24850
+2019,7,Jul,Weekend,MetroBus,150900
+2019,7,Jul,Weekend,MetroTrain,321750
+2019,7,Jul,Weekend,Tram,330850
+2019,7,Jul,Weekend,RegionalBus,11500
+2019,7,Jul,Weekend,RegionalTrain,25650
+2019,8,Aug,Weekend,MetroBus,168350
+2019,8,Aug,Weekend,MetroTrain,364550
+2019,8,Aug,Weekend,Tram,344600
+2019,8,Aug,Weekend,RegionalBus,12450
+2019,8,Aug,Weekend,RegionalTrain,29700
+2019,9,Sep,Weekend,MetroBus,160300
+2019,9,Sep,Weekend,MetroTrain,309600
+2019,9,Sep,Weekend,Tram,304850
+2019,9,Sep,Weekend,RegionalBus,11400
+2019,9,Sep,Weekend,RegionalTrain,22500
+2019,10,Oct,Weekend,MetroBus,174750
+2019,10,Oct,Weekend,MetroTrain,323000
+2019,10,Oct,Weekend,Tram,350300
+2019,10,Oct,Weekend,RegionalBus,12250
+2019,10,Oct,Weekend,RegionalTrain,25750
+2019,11,Nov,Weekend,MetroBus,175100
+2019,11,Nov,Weekend,MetroTrain,321650
+2019,11,Nov,Weekend,Tram,361350
+2019,11,Nov,Weekend,RegionalBus,12400
+2019,11,Nov,Weekend,RegionalTrain,24550
+2019,12,Dec,Weekend,MetroBus,169050
+2019,12,Dec,Weekend,MetroTrain,326700
+2019,12,Dec,Weekend,Tram,354050
+2019,12,Dec,Weekend,RegionalBus,12500
+2019,12,Dec,Weekend,RegionalTrain,25600
+2020,1,Jan,Weekend,MetroBus,160200
+2020,1,Jan,Weekend,MetroTrain,285000
+2020,1,Jan,Weekend,Tram,319550
+2020,1,Jan,Weekend,RegionalBus,11900
+2020,1,Jan,Weekend,RegionalTrain,21950
+2020,2,Feb,Weekend,MetroBus,173850
+2020,2,Feb,Weekend,MetroTrain,301750
+2020,2,Feb,Weekend,Tram,364000
+2020,2,Feb,Weekend,RegionalBus,12250
+2020,2,Feb,Weekend,RegionalTrain,24900
+2020,3,Mar,Weekend,MetroBus,115450
+2020,3,Mar,Weekend,MetroTrain,196950
+2020,3,Mar,Weekend,Tram,197700
+2020,3,Mar,Weekend,RegionalBus,8500
+2020,3,Mar,Weekend,RegionalTrain,14200
+2020,4,Apr,Weekend,MetroBus,29700
+2020,4,Apr,Weekend,MetroTrain,36450
+2020,4,Apr,Weekend,Tram,27650
+2020,4,Apr,Weekend,RegionalBus,2900
+2020,4,Apr,Weekend,RegionalTrain,2250
+2020,5,May,Weekend,MetroBus,53600
+2020,5,May,Weekend,MetroTrain,73950
+2020,5,May,Weekend,Tram,58750
+2020,5,May,Weekend,RegionalBus,5300
+2020,5,May,Weekend,RegionalTrain,5400
+2020,6,Jun,Weekend,MetroBus,90550
+2020,6,Jun,Weekend,MetroTrain,139700
+2020,6,Jun,Weekend,Tram,101550
+2020,6,Jun,Weekend,RegionalBus,8150
+2020,6,Jun,Weekend,RegionalTrain,9350
+2020,7,Jul,Weekend,MetroBus,51200
+2020,7,Jul,Weekend,MetroTrain,65300
+2020,7,Jul,Weekend,Tram,49300
+2020,7,Jul,Weekend,RegionalBus,7850
+2020,7,Jul,Weekend,RegionalTrain,4550
+2020,8,Aug,Weekend,MetroBus,33600
+2020,8,Aug,Weekend,MetroTrain,35700
+2020,8,Aug,Weekend,Tram,26700
+2020,8,Aug,Weekend,RegionalBus,5300
+2020,8,Aug,Weekend,RegionalTrain,2550
+2020,9,Sep,Weekend,MetroBus,34050
+2020,9,Sep,Weekend,MetroTrain,35150
+2020,9,Sep,Weekend,Tram,32500
+2020,9,Sep,Weekend,RegionalBus,4850
+2020,9,Sep,Weekend,RegionalTrain,2800
+2020,10,Oct,Weekend,MetroBus,59700
+2020,10,Oct,Weekend,MetroTrain,58950
+2020,10,Oct,Weekend,Tram,66700
+2020,10,Oct,Weekend,RegionalBus,8000
+2020,10,Oct,Weekend,RegionalTrain,4050
+2020,11,Nov,Weekend,MetroBus,106450
+2020,11,Nov,Weekend,MetroTrain,158300
+2020,11,Nov,Weekend,Tram,135100
+2020,11,Nov,Weekend,RegionalBus,8350
+2020,11,Nov,Weekend,RegionalTrain,9250
+2020,12,Dec,Weekend,MetroBus,119050
+2020,12,Dec,Weekend,MetroTrain,194400
+2020,12,Dec,Weekend,Tram,156550
+2020,12,Dec,Weekend,RegionalBus,9000
+2020,12,Dec,Weekend,RegionalTrain,15250
+2021,1,Jan,Weekend,MetroBus,104100
+2021,1,Jan,Weekend,MetroTrain,179700
+2021,1,Jan,Weekend,Tram,144300
+2021,1,Jan,Weekend,RegionalBus,8050
+2021,1,Jan,Weekend,RegionalTrain,13400
+2021,2,Feb,Weekend,MetroBus,95150
+2021,2,Feb,Weekend,MetroTrain,154450
+2021,2,Feb,Weekend,Tram,145400
+2021,2,Feb,Weekend,RegionalBus,7150
+2021,2,Feb,Weekend,RegionalTrain,10750
+2021,3,Mar,Weekend,MetroBus,117150
+2021,3,Mar,Weekend,MetroTrain,215750
+2021,3,Mar,Weekend,Tram,209900
+2021,3,Mar,Weekend,RegionalBus,8100
+2021,3,Mar,Weekend,RegionalTrain,19500
+2021,4,Apr,Weekend,MetroBus,118300
+2021,4,Apr,Weekend,MetroTrain,252800
+2021,4,Apr,Weekend,Tram,235950
+2021,4,Apr,Weekend,RegionalBus,8250
+2021,4,Apr,Weekend,RegionalTrain,22750
+2021,5,May,Weekend,MetroBus,108550
+2021,5,May,Weekend,MetroTrain,209650
+2021,5,May,Weekend,Tram,212350
+2021,5,May,Weekend,RegionalBus,7200
+2021,5,May,Weekend,RegionalTrain,17600
+2021,6,Jun,Weekend,MetroBus,85250
+2021,6,Jun,Weekend,MetroTrain,133350
+2021,6,Jun,Weekend,Tram,137750
+2021,6,Jun,Weekend,RegionalBus,7550
+2021,6,Jun,Weekend,RegionalTrain,10000
+2021,7,Jul,Weekend,MetroBus,76900
+2021,7,Jul,Weekend,MetroTrain,144850
+2021,7,Jul,Weekend,Tram,125600
+2021,7,Jul,Weekend,RegionalBus,6450
+2021,7,Jul,Weekend,RegionalTrain,9050
+2021,8,Aug,Weekend,MetroBus,44750
+2021,8,Aug,Weekend,MetroTrain,58700
+2021,8,Aug,Weekend,Tram,56450
+2021,8,Aug,Weekend,RegionalBus,6100
+2021,8,Aug,Weekend,RegionalTrain,5150
+2021,9,Sep,Weekend,MetroBus,44250
+2021,9,Sep,Weekend,MetroTrain,49000
+2021,9,Sep,Weekend,Tram,42400
+2021,9,Sep,Weekend,RegionalBus,6550
+2021,9,Sep,Weekend,RegionalTrain,2250
+2021,10,Oct,Weekend,MetroBus,71000
+2021,10,Oct,Weekend,MetroTrain,94200
+2021,10,Oct,Weekend,Tram,84550
+2021,10,Oct,Weekend,RegionalBus,7700
+2021,10,Oct,Weekend,RegionalTrain,6250
+2021,11,Nov,Weekend,MetroBus,125200
+2021,11,Nov,Weekend,MetroTrain,193150
+2021,11,Nov,Weekend,Tram,179150
+2021,11,Nov,Weekend,RegionalBus,9600
+2021,11,Nov,Weekend,RegionalTrain,14150
+2021,12,Dec,Weekend,MetroBus,131050
+2021,12,Dec,Weekend,MetroTrain,210850
+2021,12,Dec,Weekend,Tram,231050
+2021,12,Dec,Weekend,RegionalBus,10450
+2021,12,Dec,Weekend,RegionalTrain,18400
+2022,1,Jan,Weekend,MetroBus,93950
+2022,1,Jan,Weekend,MetroTrain,144750
+2022,1,Jan,Weekend,Tram,142400
+2022,1,Jan,Weekend,RegionalBus,8900
+2022,1,Jan,Weekend,RegionalTrain,13250
+2022,2,Feb,Weekend,MetroBus,123450
+2022,2,Feb,Weekend,MetroTrain,197600
+2022,2,Feb,Weekend,Tram,224200
+2022,2,Feb,Weekend,RegionalBus,10250
+2022,2,Feb,Weekend,RegionalTrain,16800
+2022,3,Mar,Weekend,MetroBus,136300
+2022,3,Mar,Weekend,MetroTrain,270600
+2022,3,Mar,Weekend,Tram,288750
+2022,3,Mar,Weekend,RegionalBus,11350
+2022,3,Mar,Weekend,RegionalTrain,22650
+2022,4,Apr,Weekend,MetroBus,143550
+2022,4,Apr,Weekend,MetroTrain,323200
+2022,4,Apr,Weekend,Tram,303150
+2022,4,Apr,Weekend,RegionalBus,12050
+2022,4,Apr,Weekend,RegionalTrain,22700
+2022,5,May,Weekend,MetroBus,130900
+2022,5,May,Weekend,MetroTrain,272600
+2022,5,May,Weekend,Tram,270700
+2022,5,May,Weekend,RegionalBus,10850
+2022,5,May,Weekend,RegionalTrain,18850
+2022,6,Jun,Weekend,MetroBus,133450
+2022,6,Jun,Weekend,MetroTrain,250150
+2022,6,Jun,Weekend,Tram,268150
+2022,6,Jun,Weekend,RegionalBus,10750
+2022,6,Jun,Weekend,RegionalTrain,21650
