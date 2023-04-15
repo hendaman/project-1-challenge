@@ -3,13 +3,12 @@
 Exploring post COVID-19 mobility patterns in Melbourne
 
 Exploring Mobility Patterns in Metropolitan Melbourne (June 2018-June 2022)
+
 Project Description
 
 The COVID-19 pandemic has significantly impacted transportation and mobility patterns in many cities, including Melbourne. This study aims to investigate how mobility patterns in Metropolitan Melbourne have evolved from June 2018 to June 2022, with a focus on the impact of the pandemic. We will analyze the data to answer several research questions related to public transport usage, pedestrian traffic, and the effects of the pandemic on mobility.
 
-
 Research Questions
-
 
 Which stations saw the greatest change in public transport usage/pedestrian traffic? Which municipality saw the greatest change in public transport usage? And which station saw the greatest change in the City of Melbourne?
 
@@ -18,10 +17,9 @@ How has each of the different modes of public transport increased or decreased i
 How has the volume of pedestrian traffic in Melbourne’s CBD evolved over the time frame? (Explore peak and off-peak hours)
 
 Did the pandemic affect people traveling during peak hours by public transport in Melbourne?
+
 Datasets
-
 We will be using the following datasets for our analysis:
-
 
 Monthly public patronage by mode (XLS/CSV): https://discover.data.vic.gov.au/dataset/monthly-public-transport-patronage-by-mode
 
@@ -40,6 +38,7 @@ Team Members
 Henry Leighton
 
 Owen Johannes
+
 Tao Ma
 
 Jai Gupta
@@ -57,6 +56,7 @@ results: This directory contains all the results and visualizations generated fr
 README.md: This file contains a brief description of the project and the directory structure.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Branch naming structure:
@@ -64,4 +64,3 @@ Branch naming structure:
 Initials - Question - Version
 
 Example: HL-Q1-V1
-
