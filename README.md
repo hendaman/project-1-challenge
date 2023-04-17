@@ -33,6 +33,13 @@ Pedestrian Counting System - Past Hour (counts per minute) (API): https://data.m
 
 Victorian Coronavirus (COVID-19) Data: https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data
 
+Hypothetical Testing:
+
+After we made our analysis, we did Hypothesis Testing and stastical analysis. it means our Analysis did not occur by chance, it is backed enough evidence. we performed different tests ANOVA test using the f_oneway function from the scipy.stats module and two sample two tests which returns the F-statistic and p-value. Finally, we check the p-value and compare it with the significance level (0.05 in this case) to determine whether to reject or fail to reject the null hypothesis.
+If the p-value is less than the significance level, we reject the null hypothesis and conclude that there is a significant difference .Otherwise, we fail to reject the null hypothesis and conclude that there is no significant difference.
+
+Conclusions:
+
 Team Members
 
 Henry Leighton
